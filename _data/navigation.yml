@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Portfolio"
-    url: https://bynnoh.github.io/portfolio
+    url: https://bynnoh.github.io/portfolio/
   - title: "Devlog"
-    url: https://bynnoh.github.io
+    url: https://bynnoh.github.io/year-archive/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
