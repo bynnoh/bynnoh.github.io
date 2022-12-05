@@ -38,7 +38,7 @@ gallery:
 2022-03-01 ~ 2022-10-07
 
 ## Screenshots
-{% include gallery caption="Responsive UI for mobile, chart visualization, raw data download" %}
+{% include gallery caption="Key features including responsive UI for mobile, chart visualization, and raw data download." %}
 
 ## URL
 [Govey.app](https://govey.app)
